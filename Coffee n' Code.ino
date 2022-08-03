@@ -1,3 +1,7 @@
+// It is a device that is used to monitor the health of drivers like Heart rate, Body temperature, and Stress level. And it also measures the air quality inside the cabin and gives alerts regarding health and air quality to the driver's screen and as well as to fleet management. There is also an SOS button that can be used by drivers in an emergency conditions.
+//Creted by Prince Kumar Kushwaha
+//ESP32 Board
+
 // Import required libraries
 #include "WiFi.h"               // this library can instantiate Servers, Clients and send/receive UDP packets through WiFi.
 #include "ESPAsyncWebServer.h"  // ESPAsyncWebServer library that provides an easy way to build an asynchronous web server.
